@@ -1,4 +1,4 @@
-dev-pun
+cyberpun
 =======
 
 A collection of developer jokes
