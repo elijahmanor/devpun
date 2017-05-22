@@ -7,6 +7,34 @@
         "created": "09/06/2013"
     },
     {
+        "text": "q. Why did the child component have such great self-esteem? a. Because its parent kept giving it `props`!",
+        "question": "Why did the child component have such great self-esteem?",
+        "answer": "Because its parent kept giving it `props`!",
+        "author": "elijahmanor",
+        "created": "05/22/2017"
+    },
+    {
+        "text": "q. Why do C# and Java developers keep breaking their keyboards? a. Because they use a strongly typed language!",
+        "question": "Why do C# and Java developers keep breaking their keyboards",
+        "answer": "Because they use a strongly typed language",
+        "author": "elijahmanor",
+        "created": "09/23/2013"
+    },
+     {
+        "text": "q. Why was the JavaScript developer sad? a. Because he didn't Node how to Express himself!",
+        "question": "Why was the JavaScript developer sad?",
+        "answer": "Because he didn't Node how to Express himself!",
+        "author": "elijahmanor",
+        "created": "09/10/2013"
+    },
+    {
+        "text": "q. Why did the developer go broke? a. Because he used up all his cache!",
+        "question": "Why did the developer go broke?",
+        "answer": "Because he used up all his cache!",
+        "author": "elijahmanor",
+        "created": "09/17/2013"
+    },
+    {
         "text": "When a JavaScript date has gone bad, \"Don't call me, I'll callback you. I promise!\"",
         "author": "elijahmanor",
         "created": "09/09/2013"
@@ -18,13 +46,6 @@
     },
     {
         "text": "Two JavaScript developers walked into the variable `bar`. Ouch!",
-        "author": "elijahmanor",
-        "created": "09/10/2013"
-    },
-    {
-        "text": "q. Why was the JavaScript developer sad? a. Because he didn't Node how to Express himself!",
-        "question": "Why was the JavaScript developer sad?",
-        "answer": "Because he didn't Node how to Express himself!",
         "author": "elijahmanor",
         "created": "09/10/2013"
     },
@@ -64,13 +85,6 @@
         "created": "09/16/2013"
     },
     {
-        "text": "q. Why did the developer go broke? a. Because he used up all his cache!",
-        "question": "Why did the developer go broke?",
-        "answer": "Because he used up all his cache!",
-        "author": "elijahmanor",
-        "created": "09/17/2013"
-    },
-    {
         "text": "q. Why did the C# developer fall asleep? a. Because he didn't like Java.",
         "question": "Why did the C# developer fall asleep?",
         "answer": "Because he didn't like Java.",
@@ -90,13 +104,6 @@
         "answer": "Once he saw the font he quickly changed to Open Sans and exclaimed \"In your @font-face!\"",
         "author": "elijahmanor",
         "created": "09/20/2013"
-    },
-    {
-        "text": "q. Why do C# and Java developers keep breaking their keyboards? a. Because they use a strongly typed language!",
-        "question": "Why do C# and Java developers keep breaking their keyboards",
-        "answer": "Because they use a strongly typed language",
-        "author": "elijahmanor",
-        "created": "09/23/2013"
     },
     {
         "text": "q. Why was Ember.js turning red? a. Because it was EMBERrassed for not remEMBERing its route home!",
