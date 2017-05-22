@@ -20,7 +20,14 @@
         "author": "elijahmanor",
         "created": "09/23/2013"
     },
-     {
+    {
+        "text": "q. Why did the functional component feel lost? a. Because it didn't know what `state` it was in!",
+        "question": "Why did the functional component feel lost?",
+        "answer": "Because it didn't know what `state` it was in!",
+        "author": "elijahmanor",
+        "created": "05/22/2017"
+    },
+    {
         "text": "q. Why was the JavaScript developer sad? a. Because he didn't Node how to Express himself!",
         "question": "Why was the JavaScript developer sad?",
         "answer": "Because he didn't Node how to Express himself!",
