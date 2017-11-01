@@ -42,6 +42,13 @@
         "created": "09/17/2013"
     },
     {
+        "text": "q. Why did the React Higher Order Component give up?",
+        "question": "Why did the React Higher Order Component give up?",
+        "answer": "Because it sur-rendered to the prop-aganda!",
+        "author": "elijahmanor",
+        "created": "10/31/2017"
+    },
+    {
         "text": "When a JavaScript date has gone bad, \"Don't call me, I'll callback you. I promise!\"",
         "author": "elijahmanor",
         "created": "09/09/2013"
