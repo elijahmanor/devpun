@@ -4,7 +4,7 @@ const program = require("commander");
 const cyberpun = require("./index");
 
 program
-  .version("1.0.0", "-v, --version")
+  .version("1.0.1", "-v, --version")
   .option("-l, --list", "List all the jokes");
 
 program.on("--help", () => {
