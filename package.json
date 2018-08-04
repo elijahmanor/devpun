@@ -1,0 +1,36 @@
+{
+  "name": "cyberpun",
+  "version": "1.0.0",
+  "description": "computer related puns",
+  "main": "index.js",
+  "bin": "cli.js",
+  "engines" : {
+    "node" : ">= 4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "cli.js",
+    "jokes.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elijahmanor/cyberpun.git"
+  },
+  "keywords": [
+    "cli",
+    "joke",
+    "jokes"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elijahmanor/cyberpun/issues"
+  },
+  "homepage": "https://github.com/elijahmanor/cyberpun#readme",
+  "dependencies": {
+    "commander": "^2.17.0",
+    "lodash.sample": "^4.2.1"
+  }
+}
