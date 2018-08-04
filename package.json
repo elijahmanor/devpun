@@ -1,6 +1,6 @@
 {
   "name": "devpun",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "developer related puns",
   "main": "index.js",
   "bin": "cli.js",
