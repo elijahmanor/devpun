@@ -1,11 +1,11 @@
 {
-  "name": "cyberpun",
+  "name": "devpun",
   "version": "1.0.0",
-  "description": "computer related puns",
+  "description": "developer related puns",
   "main": "index.js",
   "bin": "cli.js",
-  "engines" : {
-    "node" : ">= 4"
+  "engines": {
+    "node": ">= 4"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elijahmanor/cyberpun.git"
+    "url": "git+https://github.com/elijahmanor/devpun.git"
   },
   "keywords": [
     "cli",
@@ -26,9 +26,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/elijahmanor/cyberpun/issues"
+    "url": "https://github.com/elijahmanor/devpun/issues"
   },
-  "homepage": "https://github.com/elijahmanor/cyberpun#readme",
+  "homepage": "https://github.com/elijahmanor/devpun#readme",
   "dependencies": {
     "commander": "^2.17.0",
     "lodash.sample": "^4.2.1"
