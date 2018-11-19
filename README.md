@@ -37,12 +37,12 @@ $ devpun [options]
 ### Examples
 
 ```bash
-$ cyberpun
-$ cyberpun --tag react
-$ cyberpun -t javascript
-$ cyberpun --list
-$ cyberpun -l
-$ cyberpun -lt react
+$ devpun
+$ devpun --tag react
+$ devpun -t javascript
+$ devpun --list
+$ devpun -l
+$ devpun -lt react
 ```
 
 ## Tags
