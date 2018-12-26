@@ -1,6 +1,6 @@
 # devpun
 
-A collection of developer jokes
+A collection of developer jokes authored by [Elijah Manor](https://elijahmanor.coms) ([@elijahmanor](https://twitter.com/elijahmanor))
 
 ## Install
 
