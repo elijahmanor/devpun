@@ -246,5 +246,51 @@
       "ember"
     ],
     "text": "q. Why was Ember.js turning red? a. Because it was EMBERrassed for not remEMBERing its route home!"
+  },
+  {
+    "answer": "It'll be a real pain in their ASP!",
+    "author": "BMDan",
+    "created": "2019-05-01",
+    "question": "Why is Microsoft afraid of Python as a Web language?",
+    "tags": [
+      "python",
+      "asp"
+    ]
+  },
+  {
+    "answer": "No double-inheritance.",
+    "author": "BMDan",
+    "created": "2019-05-01",
+    "question": "Why did Java stop having children after the first arrived?",
+    "tags": [
+      "java"
+    ]
+  },
+  {
+    "answer": "Functools partials, a few lambdas, most def.",
+    "author": "BMDan",
+    "created": "2019-05-01",
+    "question": "How do the cool kids write their programs' functions nowadays?",
+    "tags": [
+      "python"
+    ]
+  },
+  {
+    "answer": "__mifflin__",
+    "author": "BMDan (based on elijahmanor)",
+    "created": "2019-05-01",
+    "question": "Where was Michael Scott the regional manager?",
+    "tags": [
+      "python"
+    ]
+  },
+  {
+    "answer": "from __future__ import...",
+    "author": "BMDan",
+    "created": "2019-05-01",
+    "question": "Is there any way to see the hot new movie if it hasn't been released in your country yet?",
+    "tags": [
+      "python"
+    ]
   }
 ]
