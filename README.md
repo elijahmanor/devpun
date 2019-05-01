@@ -24,6 +24,10 @@ console.log(devpun.list("react")); // returns an array of all react jokes
 ```bash
 $ devpun [options]
 ```
+or
+```bash
+$ ./devpun.py [options]
+```
 
 ### Options
 
