@@ -89,6 +89,8 @@ def main() -> int:
             print(f"Q. {j['question']}")
             print(f"A. {j['answer']}")
 
+    return 0
+
 
 if __name__ == "__main__":
     sys.exit(main())
