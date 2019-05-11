@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-
 import argparse
+import collections
 import json
 import random
 import sys
@@ -20,11 +20,20 @@ def main() -> int:
     )
     action.add_argument(
         "--list",
+        "--list-jokes",
         "-l",
         dest="action",
         action="store_const",
         const="list",
         help="List all matching jokes, instead of choosing one at random",
+    )
+    action.add_argument(
+        "--list-tags",
+        "-T",
+        dest="action",
+        action="store_const",
+        const="list_tags",
+        help="List all available tags with corresponding joke count, then exit.",
     )
     parser.add_argument(
         "--tag",
@@ -40,6 +49,14 @@ def main() -> int:
     joke_list: List[Dict[str, Union[str, List[str]]]] = json.load(
         open("jokes.json", "r")
     )
+
+    if opts.action == "list_tags":
+        tag_list: Dict[str, int] = collections.defaultdict(int)
+        for j in joke_list:
+            for t in j.get("tags", []):
+                tag_list[t] += 1
+        print("\n".join(["%3d %s" % (tag_list[t], t) for t in sorted(tag_list.keys())]))
+        return 0
 
     if opts.tags:
         for tag in opts.tags:
